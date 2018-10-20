@@ -4,10 +4,14 @@
 
 ## Study History
 * 2018/10/06
-    * 과정 시작
+    * techpython1
 
 <br>
 * 2018/10/13<br>
-    * python 
+    - techpython2
+
+<br>
+* 2018/10/13<br>
+    - techpython3
 
 <br>
