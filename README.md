@@ -2,18 +2,18 @@
 
 > 기간 2018.10.6 ~ 2018.11.10
 
-## Study History
+## 1주차
 * 2018/10/06
-    * techpython1
+    - techpython1
 
 <br>
-##
-* 2018/10/13<br>
+## 2주차
+* 2018/10/13
     - techpython2
 
 <br>
-##
-* 2018/10/13<br>
+##3주차
+* 2018/10/20
     - techpython3
 
 <br>
