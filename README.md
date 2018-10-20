@@ -7,11 +7,13 @@
     - techpython1
 
 <br>
+
 ## 2주차
 * 2018/10/13
     - techpython2
 
 <br>
+
 ##3주차
 * 2018/10/20
     - techpython3
